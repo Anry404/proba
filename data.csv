@@ -1,15 +1,15 @@
 name,value
-1st revenu,6000000
+1st revenu,5000000
 2nd revenue,2000000
 2st spend,-3000000
 January,6000000
-February+,2000000
-February-,-1000000
-March+,500000
-March-,-200000
-April+,4500000
-April-,-6000000
-May+,5000000
-May-,-2000000
-June+,4400000
-June-,-6000000
+February1,2000000
+February2,-1000000
+March1,500000
+March2,-200000
+April1,4500000
+April2,-6000000
+May1,5000000
+May2,-2000000
+June1,4400000
+June2,-6000000

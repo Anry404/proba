@@ -1,4 +1,10 @@
 name,value
+1st revenu,6000000
+2nd revenue,2000000
+1st spend,-3000000
+3rd revenue,4000000
+2nd spend,-5500000
+4th revenue,800000
 January,6000000
 February,2000000
 February,-1000000
@@ -6,4 +12,3 @@ March,5000000
 March,-2000000
 April,4500000
 April,-6000000
-
